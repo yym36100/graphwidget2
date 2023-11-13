@@ -1,0 +1,12 @@
+*.exe
+sg9/Release/
+sg9/Debug/
+aiopcon/Debug/
+aiopcon/Release/
+doublebuff/Release/
+sg9/sg9.vcproj.yym-PC.yym.user
+debug/sg9.pdb
+debug/sg9.ilk
+520_soundgraph.ncb
+debug/
+520_soundgraph.suo
